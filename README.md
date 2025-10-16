@@ -1,4 +1,4 @@
-## Olá! seja bem-vindo(a) ao meu perfil. 👋😎
+## Olá! seja bem-vindo(a) ao meu perfil. 
 
 ### Me chamo Kauã, tenho 18 anos e tenho muito interesse na área de tecnologia e principalmente na programação.
 

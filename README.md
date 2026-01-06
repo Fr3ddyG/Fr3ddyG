@@ -1,6 +1,6 @@
 ## Olá! seja bem-vindo(a) ao meu perfil. 
 
-### Me chamo Kauã, tenho 18 anos e tenho muito interesse na área de tecnologia e principalmente na programação.
+### Me chamo Kauã, tenho 19 anos e tenho muito interesse na área de tecnologia e principalmente na programação.
 
 - 🔭 No momento... não estou trabalhando.
 - 🗨 No momento... estou aprendendo: Python e HTML.
